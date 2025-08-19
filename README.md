@@ -1,2 +1,1 @@
-# Grocery
-tailwind css project
+A modern and responsive grocery store web application built with Tailwind CSS. This project focuses on clean UI design, mobile responsiveness, and reusable components to create a seamless shopping experience.
